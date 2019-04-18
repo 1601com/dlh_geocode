@@ -1,5 +1,5 @@
 {
-    "name": "delahaye/dlh_geocode",
+    "name": "agentur1601com/dlh_geocode",
     "description":"Get geo coordinates from a given address",
     "keywords":["contao", "geo", "googlemaps"],
     "type": "contao-module",

@@ -63,7 +63,7 @@ class GeoCode
     {
         if ($key === null)
         {
-            $key = \Config::get('dlh_googlemaps_apikey');
+            $key = \Config::get('dlh_googlemaps_be_apikey');
         }
 
         if ($strAddress)
